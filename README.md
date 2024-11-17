@@ -81,5 +81,5 @@ Save your project and push back to your repository.
 ```
 git add .
 git commit -m "final"                         
-git push origin main
+git push origin master
 ```
