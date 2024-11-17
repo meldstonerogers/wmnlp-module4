@@ -74,7 +74,7 @@ git commit -m "initial"
 git push origin main
 ```
 ### Start and Complete Project 
-Follow instructions within the requests-json-nlp notebook file. 
+Follow instructions within the requests-json-nlp notebook file. Push updates to your GitHub periodically.  
 
 ## Complete Your Project
 Save your project and push back to your repository. 
